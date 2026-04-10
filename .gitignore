@@ -1,3 +1,8 @@
 definition.csv
 qwen3_model/
 __pycache__/
+output_files/
+input_folders/
+prompt_file.csv
+compliance_transcripts.csv
+.env
